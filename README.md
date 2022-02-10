@@ -2,7 +2,7 @@
 ... Is a Medieval RPG game developed in Unity. 
 
 
-## Premise
+## Idea
 The player spawns as a knight who must make thier way through a Medieval village, equipping a sword laying on a pedestal before engaging in combat with a patrolling enemy Knight.  At any time, the player can choose to engage in a spontaneous display of dance.
 
 ## Features
