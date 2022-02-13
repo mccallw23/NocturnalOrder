@@ -1,5 +1,5 @@
 ## Nocturnal Order
-... Is a Medieval RPG game developed in Unity. 
+Is a Medieval RPG game developed in Unity. 
 
 
 ## Idea
